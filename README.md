@@ -8,3 +8,7 @@
 ## 指導案の作成（creating-a-lesson-plan）
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/Creating-a-lesson-plan)
 * bing Chatを使って、指導案作成を行うプロンプトです。指導案作成の際には、bingChatの会話スタイルを「厳格」にする事をお勧めします。
+
+## アンケートの作成（Survey-design）
+[プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/Survey-design)
+＊ アンケートの項目について、AIからアイディアをもらうことが出来ます。使用する際は、プロンプトをご自身の状況に合わせて修正してからお使いください。
