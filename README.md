@@ -6,4 +6,5 @@
 * ChatGPTを使って、道徳の模擬授業を行うプロンプトです。プロンプト内の「＃# 教材情報」に必要な情報を入力してお使いください。
 
 ## creating-a-lesson-plan
+[プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/Creating-a-lesson-plan)
 * bing Chatを使って、指導案作成を行うプロンプトです。指導案作成の際には、bingChatの会話スタイルを「厳格」にする事をお勧めします。
