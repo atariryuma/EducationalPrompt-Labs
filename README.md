@@ -2,7 +2,7 @@
 このページは、⽣成AIの校務での活⽤について書いていますが、黎明期の生成AIは仕様の変更によって使えなくなることも大いに考えられます。活用方法を模索しつつ、その都度更新していく予定です。
 
 ## 道徳の模擬授業（simulated-Moral-lesson）
-[プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/Creating-a-lesson-plan)
+[プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/simulated-Moral-lesson)
 * ChatGPTを使って、道徳の模擬授業を行うプロンプトです。プロンプト内の「＃# 教材情報」に必要な情報を入力してお使いください。
 
 ## 指導案の作成（creating-a-lesson-plan）
