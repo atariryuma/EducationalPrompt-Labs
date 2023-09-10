@@ -7,7 +7,8 @@
 
 ## 指導案の作成（creating-a-lesson-plan）
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/Creating-a-lesson-plan)
-* bing Chatを使って、指導案作成を行うプロンプトです。指導案作成の際には、bingChatの会話スタイルを「厳格」にする事をお勧めします。
+[実際に生成された回答](https://www.perplexity.ai/search/86075de6-a9fd-44b5-8f43-24336ac3a3c9?s=c)
+* Perplexityを使って、指導案作成を行うプロンプトです。指導案作成の際には、bingChatの会話スタイルを「厳格」にする事をお勧めします。
 
 ## アンケートの作成（Survey-design）
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/Survey-design)
