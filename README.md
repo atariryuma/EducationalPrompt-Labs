@@ -3,7 +3,7 @@
 
 ## 道徳の模擬授業（simulated-Moral-lesson）
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/simulated-Moral-lesson)
-[実際に生成された回答]（https://chat.openai.com/share/efe3fd4d-4b0d-42a3-9ddd-033af2b4b113)
+[実際に生成された回答](https://chat.openai.com/share/efe3fd4d-4b0d-42a3-9ddd-033af2b4b113)
 * ChatGPTを使って、道徳の模擬授業を行うプロンプトです。プロンプト内の「＃# 教材情報」に必要な情報を入力してお使いください。
 
 ## 指導案の作成（creating-a-lesson-plan）
