@@ -14,3 +14,8 @@
 ## アンケートの作成（Survey-design）
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/Survey-design)
 * アンケートの項目について、AIからアイディアをもらうことが出来ます。使用する際は、プロンプトをご自身の状況に合わせて修正してからお使いください。
+
+## 生成AIに関する他の実践
+* noteにて、生成AIに関する他の実践も行っていますので、ぜひそちらもご覧ください。
+* [noteクリエイターページ]（https://note.com/atari_ryuma/）
+* 
