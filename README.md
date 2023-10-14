@@ -8,9 +8,11 @@
 
 ## 指導案の作成（creating-a-lesson-plan）
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/Creating-a-lesson-plan)
-[実際に生成された回答](https://www.perplexity.ai/search/86075de6-a9fd-44b5-8f43-24336ac3a3c9?s=c)
-* [Perplexity](https://www.perplexity.ai/)を使って、指導案作成を行うプロンプトです。
-* bingChatの（おそらく）仕様変更により、著作権侵害に該当するような文書の引用を行わなくなりましたので、Perplexityで代替しています。
+[実際に生成された回答 perplexity](https://www.perplexity.ai/search/86075de6-a9fd-44b5-8f43-24336ac3a3c9?s=c)
+[実際に生成された回答 BingChat](https://sl.bing.net/e6s7KJG7pZI)
+* [BingChat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)や[Perplexity](https://www.perplexity.ai/)を使って、指導案作成を行うプロンプトです。
+* プロンプト内の「＃＃ 教材情報」に必要な情報を入力してお使いください。
+* アプリ版のBingChatを使用する際には「GPT-4」のトグルスイッチをオンにすることをお勧めします。
 
 ## アンケートの作成（Survey-design）
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/Survey-design)
