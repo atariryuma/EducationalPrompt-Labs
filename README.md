@@ -14,7 +14,7 @@
 
 [実際に生成された回答 BingChat](https://sl.bing.net/e6s7KJG7pZI)
 * [BingChat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)や[Perplexity](https://www.perplexity.ai/)を使って、指導案作成を行うプロンプトです。
-* プロンプト内の「＃＃ 教材情報」に必要な情報を入力してお使いください。
+* プロンプト内の「# 教材情報」に必要な情報を入力してお使いください。
 * アプリ版のBingChatを使用する際には「GPT-4」のトグルスイッチをオンにすることをお勧めします。
 
 ## アンケートの作成（Survey-design）
