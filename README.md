@@ -9,8 +9,6 @@
 ![ファイルアップロード説明 (2)](https://github.com/user-attachments/assets/995e0fd6-052c-46c7-8316-b0e38d28f066)
 ![ファイルアップロード説明 (3)](https://github.com/user-attachments/assets/ab24feb2-0b31-4a56-a2fa-89db426b9bad)
 
-### うまく生成結果が得られない場合
-![ファイルアップロード説明 (4)](https://github.com/user-attachments/assets/1567a246-b4d3-43fd-bfb9-05f81d62fc22)
 
 ## 活用術①道徳授業への指導助言
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E7%A7%91%E6%8E%88%E6%A5%AD%E8%A9%95%E4%BE%A1)
@@ -31,6 +29,10 @@
 
 [通知表用ダミーデータ.xlsxはこちら](https://github.com/user-attachments/files/16590586/default.xlsx)
 * 道徳科の通知表作成は、教師にとって負担が大きい作業です。生成AIを活用すれば、児童の成長をまとめた学期末の評価コメントを迅速に作成可能です。生成された文章を使って教師が所見を作成することで、評価の一貫性を保ちつつ、個別の成長に応じた適切な所見文を作成でき、通知表を効率的に作成することができます。
+
+### うまく生成結果が得られない場合
+![ファイルアップロード説明 (4)](https://github.com/user-attachments/assets/1567a246-b4d3-43fd-bfb9-05f81d62fc22)
+
 
 ---
 
