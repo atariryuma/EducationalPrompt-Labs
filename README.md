@@ -32,6 +32,8 @@
 [通知表用ダミーデータ.xlsxはこちら](https://github.com/user-attachments/files/16590586/default.xlsx)
 * 道徳科の通知表作成は、教師にとって負担が大きい作業です。生成AIを活用すれば、児童の成長をまとめた学期末の評価コメントを迅速に作成可能です。生成された文章を使って教師が所見を作成することで、評価の一貫性を保ちつつ、個別の成長に応じた適切な所見文を作成でき、通知表を効率的に作成することができます。
 
+---
+
 ## 道徳の模擬授業（simulated-Moral-lesson）
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/simulated-Moral-lesson)
 
