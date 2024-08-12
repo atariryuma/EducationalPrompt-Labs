@@ -1,9 +1,14 @@
 # EducationalPrompt-Labs
 このページは、⽣成AIの校務での活⽤について書いていますが、黎明期の生成AIは仕様の変更によって使えなくなることも大いに考えられます。活用方法を模索しつつ、その都度更新していく予定です。
 
-![クリップのアイコンをクリック](https://github.com/user-attachments/assets/98070c05-5ba8-4b38-9335-8fe077dcf578)
+## ファイルのアップロード手順
+![ファイルアップロード説明](https://github.com/user-attachments/assets/98070c05-5ba8-4b38-9335-8fe077dcf578)
+![ファイルアップロード説明 (1)](https://github.com/user-attachments/assets/fbe42677-b781-4dd5-bb2f-fb9bd3afd371)
+![ファイルアップロード説明 (2)](https://github.com/user-attachments/assets/995e0fd6-052c-46c7-8316-b0e38d28f066)
+![ファイルアップロード説明 (3)](https://github.com/user-attachments/assets/ab24feb2-0b31-4a56-a2fa-89db426b9bad)
 
-(https://github.com/user-attachments/assets/fbe42677-b781-4dd5-bb2f-fb9bd3afd371)
+## うまく生成結果が得られない場合
+![ファイルアップロード説明 (4)](https://github.com/user-attachments/assets/1567a246-b4d3-43fd-bfb9-05f81d62fc22)
 
 ## 活用術①道徳授業への指導助言
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E7%A7%91%E6%8E%88%E6%A5%AD%E8%A9%95%E4%BE%A1)
