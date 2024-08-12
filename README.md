@@ -9,7 +9,7 @@
 ![ファイルアップロード説明 (2)](https://github.com/user-attachments/assets/995e0fd6-052c-46c7-8316-b0e38d28f066)
 ![ファイルアップロード説明 (3)](https://github.com/user-attachments/assets/ab24feb2-0b31-4a56-a2fa-89db426b9bad)
 
-* うまく生成結果が得られない場合
+### うまく生成結果が得られない場合
 ![ファイルアップロード説明 (4)](https://github.com/user-attachments/assets/1567a246-b4d3-43fd-bfb9-05f81d62fc22)
 
 ## 活用術①道徳授業への指導助言
