@@ -1,10 +1,13 @@
 # EducationalPrompt-Labs
 このページは、⽣成AIの校務での活⽤について書いていますが、黎明期の生成AIは仕様の変更によって使えなくなることも大いに考えられます。活用方法を模索しつつ、その都度更新していく予定です。
 
+![クリップのアイコンをクリック](https://github.com/user-attachments/assets/98070c05-5ba8-4b38-9335-8fe077dcf578)
+
+(https://github.com/user-attachments/assets/fbe42677-b781-4dd5-bb2f-fb9bd3afd371)
+
 ## 活用術①道徳授業への指導助言
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E7%A7%91%E6%8E%88%E6%A5%AD%E8%A9%95%E4%BE%A1)
 * 道徳教育の評価は、児童生徒の道徳性の成長を促進し、教師の指導改善に不可欠です。生成AIはこの課題を解決し、客観的かつ一貫性のある評価を提供するために役立ちます。Googleフォームなどを活用し、生成AIで授業後の振り返りから指導助言を提案し、教師の負担を軽減します。
-
 
 ## 活用術②児童生徒のふり返りに対するコメント
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E7%A7%91%E6%8E%88%E6%A5%AD%E5%80%8B%E5%88%A5%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF)
