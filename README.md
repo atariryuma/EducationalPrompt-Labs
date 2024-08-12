@@ -2,12 +2,14 @@
 このページは、⽣成AIの校務での活⽤について書いていますが、黎明期の生成AIは仕様の変更によって使えなくなることも大いに考えられます。活用方法を模索しつつ、その都度更新していく予定です。
 
 ## ファイルのアップロード手順
+* ChatGPTでファイルをアップロードする手順を説明します。
+
 ![ファイルアップロード説明](https://github.com/user-attachments/assets/98070c05-5ba8-4b38-9335-8fe077dcf578)
 ![ファイルアップロード説明 (1)](https://github.com/user-attachments/assets/fbe42677-b781-4dd5-bb2f-fb9bd3afd371)
 ![ファイルアップロード説明 (2)](https://github.com/user-attachments/assets/995e0fd6-052c-46c7-8316-b0e38d28f066)
 ![ファイルアップロード説明 (3)](https://github.com/user-attachments/assets/ab24feb2-0b31-4a56-a2fa-89db426b9bad)
 
-## うまく生成結果が得られない場合
+* うまく生成結果が得られない場合
 ![ファイルアップロード説明 (4)](https://github.com/user-attachments/assets/1567a246-b4d3-43fd-bfb9-05f81d62fc22)
 
 ## 活用術①道徳授業への指導助言
