@@ -12,6 +12,9 @@
 
 ## 活用術①道徳授業への指導助言
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E7%A7%91%E6%8E%88%E6%A5%AD%E8%A9%95%E4%BE%A1)
+
+[道徳ふり返りフォームの見本はこちら](https://docs.google.com/forms/d/1j3xr9o_WaRqAff25DyFbJG325qkutzUZLfBIQu3VNuQ/copy)
+
 * 道徳教育の評価は、児童生徒の道徳性の成長を促進し、教師の指導改善に不可欠です。生成AIはこの課題を解決し、客観的かつ一貫性のある評価を提供するために役立ちます。Googleフォームなどを活用し、生成AIで授業後の振り返りから指導助言を提案し、教師の負担を軽減します。
 
 ## 活用術②児童生徒のふり返りに対するコメント
