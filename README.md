@@ -2,6 +2,9 @@
 このページは、⽣成AIの校務での活⽤について書いていますが、黎明期の生成AIは仕様の変更によって使えなくなることも大いに考えられます。活用方法を模索しつつ、その都度更新していく予定です。
 
 ## 活用術①道徳授業への指導助言
+
+[![](https://img.youtube.com/vi/CSMXzLdGFb8/0.jpg)](https://www.youtube.com/watch?v=CSMXzLdGFb8)
+
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E7%A7%91%E6%8E%88%E6%A5%AD%E8%A9%95%E4%BE%A1)
 
 [道徳ふり返りフォームの見本はこちら](https://docs.google.com/forms/d/1j3xr9o_WaRqAff25DyFbJG325qkutzUZLfBIQu3VNuQ/copy)
