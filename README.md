@@ -15,6 +15,8 @@
 
 [道徳ふり返りフォームの見本はこちら](https://docs.google.com/forms/d/1j3xr9o_WaRqAff25DyFbJG325qkutzUZLfBIQu3VNuQ/copy)
 
+[うばわれた自由_ふり返りダミーデータ.xlsxはこちら](https://github.com/user-attachments/files/16606326/_.xlsx)
+
 * 道徳教育の評価は、児童生徒の道徳性の成長を促進し、教師の指導改善に不可欠です。生成AIはこの課題を解決し、客観的かつ一貫性のある評価を提供するために役立ちます。Googleフォームなどを活用し、生成AIで授業後の振り返りから指導助言を提案し、教師の負担を軽減します。
 
 ## 活用術②児童生徒のふり返りに対するコメント
