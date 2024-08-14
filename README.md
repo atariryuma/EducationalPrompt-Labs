@@ -18,6 +18,7 @@
 [うばわれた自由_ふり返りダミーデータ.xlsxはこちら](https://github.com/user-attachments/files/16606326/_.xlsx)
 
 #### ファイルのアップロード手順
+
 * ChatGPTでファイルをアップロードする手順を説明します。
 
 ![ファイルアップロード説明](https://github.com/user-attachments/assets/98070c05-5ba8-4b38-9335-8fe077dcf578)
@@ -26,18 +27,24 @@
 ![ファイルアップロード説明 (3)](https://github.com/user-attachments/assets/ab24feb2-0b31-4a56-a2fa-89db426b9bad)
 
 ### 活用術②児童生徒のふり返りに対するコメント
+
+* 道徳授業後の振り返りへのコメントは、児童生徒の成長を促進しますが、多くの課題もあります。生成AIを使うことで、一貫性を持たせながら各児童に個別のコメントを効率的に提供できます。生成された文章を使って教師がコメントを作成することで、児童の成長を支援し、日常的な業務の時間削減にもつながります。
+
+[![](https://img.youtube.com/vi/bMYaXoL5KtM/0.jpg)](https://www.youtube.com/watch?v=bMYaXoL5KtM)
+
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E7%A7%91%E6%8E%88%E6%A5%AD%E5%80%8B%E5%88%A5%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF)
 
 [うばわれた自由_ふり返りダミーデータ.xlsxはこちら](https://github.com/user-attachments/files/16606326/_.xlsx)
 
-
-* 道徳授業後の振り返りへのコメントは、児童生徒の成長を促進しますが、多くの課題もあります。生成AIを使うことで、一貫性を持たせながら各児童に個別のコメントを効率的に提供できます。生成された文章を使って教師がコメントを作成することで、児童の成長を支援し、日常的な業務の時間削減にもつながります。
-
 ### 活用術③学期ごとの大くくりな評価・通知表
+
+* 道徳科の通知表作成は、教師にとって負担が大きい作業です。生成AIを活用すれば、児童の成長をまとめた学期末の評価コメントを迅速に作成可能です。生成された文章を使って教師が所見を作成することで、評価の一貫性を保ちつつ、個別の成長に応じた適切な所見文を作成でき、通知表を効率的に作成することができます。
+
+[![](https://img.youtube.com/vi/HxBoKuQSqXI/0.jpg)](https://www.youtube.com/watch?v=HxBoKuQSqXI)
+
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E6%89%80%E8%A6%8B%E6%96%87%E7%94%9F%E6%88%90)
 
 [通知表用ダミーデータ.xlsxはこちら](https://github.com/user-attachments/files/16590586/default.xlsx)
-* 道徳科の通知表作成は、教師にとって負担が大きい作業です。生成AIを活用すれば、児童の成長をまとめた学期末の評価コメントを迅速に作成可能です。生成された文章を使って教師が所見を作成することで、評価の一貫性を保ちつつ、個別の成長に応じた適切な所見文を作成でき、通知表を効率的に作成することができます。
 
 #### 通知表作成に当たって準備するデータについて
 ![ファイルアップロード説明](https://github.com/user-attachments/assets/23363f9d-d564-402a-93be-cd58a0ae8af5)
