@@ -34,7 +34,7 @@
 
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E7%A7%91%E6%8E%88%E6%A5%AD%E5%80%8B%E5%88%A5%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF)
 
-[うばわれた自由_ふり返りダミーデータ.xlsxはこちら](https://github.com/user-attachments/files/16606326/_.xlsx)
+[ぼくがいるよ_ふり返りダーミーデータ.xlsx](https://github.com/user-attachments/files/16621543/_.xlsx)
 
 ## 活用術③学期ごとの大くくりな評価・通知表
 
