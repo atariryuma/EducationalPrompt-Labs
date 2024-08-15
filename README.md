@@ -41,7 +41,7 @@
 * 道徳科の通知表作成は、教師にとって負担が大きい作業です。生成AIを活用すれば、児童の成長をまとめた学期末の評価コメントを迅速に作成可能です。生成された文章を使って教師が所見を作成することで、評価の一貫性を保ちつつ、個別の成長に応じた適切な所見文を作成でき、通知表を効率的に作成することができます。
 * 下の画像をクリックするとYoutubeで使い方を確認できます。
 
-[![](https://img.youtube.com/vi/HxBoKuQSqXI/0.jpg)](https://www.youtube.com/watch?v=HxBoKuQSqXI)
+[![](https://img.youtube.com/vi/CsvU4e3QapU/0.jpg)](https://www.youtube.com/watch?v=CsvU4e3QapU)
 
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E6%89%80%E8%A6%8B%E6%96%87%E7%94%9F%E6%88%90)
 
@@ -59,7 +59,7 @@
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/simulated-Moral-lesson)
 
 [実際に生成された回答](https://chat.openai.com/share/efe3fd4d-4b0d-42a3-9ddd-033af2b4b113)
-* ChatGPTを使って、道徳の模擬授業を行うプロンプトです。プロンプト内の「＃# 教材情報」に必要な情報を入力してお使いください。
+* ChatGPTを使って、道徳の模擬授業を行うプロンプトです。プロンプト内の「## 教材情報」に必要な情報を入力してお使いください。
 
 ## 指導案の作成（creating-a-lesson-plan）
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/Creating-a-lesson-plan)
