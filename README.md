@@ -45,7 +45,7 @@
 
 [プロンプトはこちら](https://github.com/atariryuma/EducationalPrompt-Labs/blob/main/%E9%81%93%E5%BE%B3%E6%89%80%E8%A6%8B%E6%96%87%E7%94%9F%E6%88%90)
 
-[通知表用ダミーデータ.xlsxはこちら](https://github.com/user-attachments/files/16590586/default.xlsx)
+[通知表作成用ダミーデータ.xlsx](https://github.com/user-attachments/files/16622513/default.xlsx)
 
 ### 通知表作成に当たって準備するデータについて
 ![ファイルアップロード説明](https://github.com/user-attachments/assets/23363f9d-d564-402a-93be-cd58a0ae8af5)
