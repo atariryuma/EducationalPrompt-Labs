@@ -13,7 +13,15 @@
 4. **最後に、以下のテーブル形式で5名の結果を出力し、「続けて処理する場合は、『次の5名分をお願いします。』と指示してください。」と返答してください。**
 
 ### 出力形式:
-**結果を以下のテーブル形式で提供してください。**
+
+import pandas as pd
+
+# Load the uploaded Excel file
+file_path = '/mnt/data/ファイル名'
+data = pd.read_excel(file_path)
+
+# Display the data to understand its structure
+data.head()
 
 | 児童生徒の名前 | 使用した資料 | 今日の道徳で気づいたことや疑問 | 大くくりな評価 | 所見文 |
 |--------------|--------------|--------------|------|--------|
